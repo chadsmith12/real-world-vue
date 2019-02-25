@@ -44,6 +44,42 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 1510600,
+      "user": {
+        "id": "abc123",
+        "name": "Chad Smith"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chad Smith"
+      },
+      "title": "Test Event",
+      "description": "This is a test event",
+      "location": "home",
+      "date": "2019-02-23T04:10:00.000Z",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 5751806,
+      "user": {
+        "id": "abc123",
+        "name": "Chad Smith"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chad Smith"
+      },
+      "title": "Sleep with the wolves",
+      "description": "You can sleep with the wolves!",
+      "location": "The wolves den!",
+      "date": "2019-03-01T04:17:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
