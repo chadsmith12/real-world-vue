@@ -231,6 +231,60 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 7278552,
+      "user": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "title": "test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9656443,
+      "user": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "title": "SUCCESS",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7615606,
+      "user": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Chad"
+      },
+      "title": "time out event",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
